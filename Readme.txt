@@ -1,4 +1,4 @@
 
 
-This is a system verilog testbench to verify Asynchronous RAM.
+This is a system verilog testbench to verify Synchronous RAM.
 Author: www.bharathshashidhar.com
